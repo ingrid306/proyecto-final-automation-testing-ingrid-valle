@@ -9,7 +9,6 @@ Este proyecto implementa un framework completo de automatización de pruebas UI 
 Incluye pruebas funcionales, validaciones de back-end con APIs, generación de reportes y una estructura modular basada en buenas prácticas de QA Automation.
 
 📁 Estructura del Proyecto
-
 project/
 ├── api/
 │   ├── conftest.py
@@ -53,7 +52,6 @@ project/
 │   └── helpers.py
 │
 └── README.md
-
 
 🔧 Tecnologías Utilizadas
 
