@@ -1,4 +1,5 @@
-pre-entrega-automation-testing- Ingrid Valle 
+Proyecto-final-automation-testing-ingrid-valle
+
 Proposito del proyecto: realizar testeos de prueba automatizados en el sitio "https://www.saucedemo.com"
 
 
