@@ -155,3 +155,9 @@ report_ui.html
 report_api.html
 
 report_all.html
+
+🙋 Autora
+
+Proyecto realizado por Ingrid Valle
+Curso: Automatización QA con Python
+
