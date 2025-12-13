@@ -10,45 +10,73 @@ Incluye pruebas funcionales, validaciones de back-end con APIs, generación de r
 
 📁 Estructura del Proyecto
 project/
+
 ├── api/
+
 │   ├── conftest.py
+
 │   ├── test_cart_page.py
+
 │   ├── test_checkout_complete_page.py
+
 │   ├── test_checkout_page.py
+
 │   ├── test_invetory_page.py
+
 │   ├── test_login_page.py
+
 │   └── test_reqres.py
+
 │
 ├── data/
+
 │   ├── __init__.py
+
 │   ├── data-login.py
+
 │   ├── data_login.csv
+
 │   └── data_login.json
 │
 ├── page/
 │   ├── __init__.py
+
 │   ├── cart_page.py
+
 │   ├── checkout_page.py
+
 │   ├── checkout_Complete_page.py
+
 │   ├── inventory_page.py
+
 │   └── login_page.py
+
 │
 ├── reports/
 │   ├── report_all.html
+
 │   ├── report_api.html
+
 │   └── report_ui.html
 │
 ├── test/
 │   ├── conftest.py
+
 │   ├── test_cart_page.py
+
 │   ├── test_checkout_page.py
+
 │   ├── test_invetory_page.py
+
 │   └── test_login_page.py
 │
 ├── utils/
 │   ├── __init__.py
+
 │   ├── example_csv.py
+
 │   ├── faker.py
+
 │   └── helpers.py
 │
 └── README.md
