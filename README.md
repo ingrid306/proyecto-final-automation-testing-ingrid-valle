@@ -74,11 +74,17 @@ Pytest HTML para reportes
 🎯 Objetivos del Proyecto
 
 ✔ Probar funcionalidades críticas de una aplicación web (UI)
+
 ✔ Probar APIs públicas (ReqRes)
+
 ✔ Implementar POM (Page Object Model)
+
 ✔ Parametrizar pruebas usando CSV y JSON
+
 ✔ Integrar Faker para datos dinámicos
+
 ✔ Generar reportes HTML separados por área (UI / API / All)
+
 ✔ Manejar fixtures desde conftest.py
 
 🧱 Arquitectura del Framework
